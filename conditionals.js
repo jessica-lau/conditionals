@@ -1,4 +1,4 @@
-///*  PART ONE: CONDITIONALS  *///
+///*  CONDITIONALS  *///
 
 // PROBLEM 1
 // Fill in the if statement of this conditional to respond to whether the user is buckledUp or not.
@@ -65,7 +65,7 @@ if (bicycle.price < 250) {
 }
 
 
-///*  PART TWO: LOOPS  *///
+///*  LOOPS  *///
 
 // PROBLEM 1
 // You put 1000 dollars into a new cryptocurrency. Good luck!
